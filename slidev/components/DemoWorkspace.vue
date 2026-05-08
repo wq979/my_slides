@@ -113,7 +113,7 @@ const lineCount = computed(() => {
 
         <div class="iframe-wrap">
           <iframe
-            src="http://localhost:8501/?embed=true"
+            https://myslides-axqcffbknnacketmbal3bz.streamlit.app/
             class="streamlit-frame"
           />
         </div>
