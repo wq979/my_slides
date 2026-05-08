@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.slidev/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
