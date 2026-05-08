@@ -113,9 +113,9 @@ const lineCount = computed(() => {
 
         <div class="iframe-wrap">
           <iframe
-            https://myslides-axqcffbknnacketmbal3bz.streamlit.app/
+            src="https://myslides-axqcffbknnacketmbal3bz.streamlit.app/?embed=true"
             class="streamlit-frame"
-          />
+          ></iframe>
         </div>
       </section>
     </div>
